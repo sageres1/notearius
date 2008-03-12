@@ -1,0 +1,2 @@
+!modifying sqlite database to remove any foreign keys, because sqlite does not support such thing.
+Let us track this directly through the code.
